@@ -57,7 +57,9 @@ task1-iris-eda/
 │
 ├── iris_eda.ipynb        # Main Jupyter Notebook
 ├── README.md             # Project summary (this file)
+├── requirements.txt      # Project Requirements
 └── plots/                # Saved visualization images (optional)
+
 ```
 
 ---
