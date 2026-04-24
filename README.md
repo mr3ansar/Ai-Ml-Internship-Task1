@@ -1,4 +1,4 @@
-# 🌸 Task 1: Exploring and Visualizing the Iris Dataset
+# Task 1: Exploring and Visualizing the Iris Dataset
 **DevelopersHub Corporation — AI/ML Engineering Internship**
 
 ---
